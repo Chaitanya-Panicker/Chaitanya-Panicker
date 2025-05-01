@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 <image align="center" alt="analyst" width="600" src="https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg"</>
@@ -11,7 +12,7 @@
 - ⚡ Fun fact **I think I am curious about Data**
 
 <h3 align="left">Connect with me:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapanicker98&" alt="chaitanyapanicker98" /></p>
+</div>
 
 <div align="center">
   
