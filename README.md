@@ -10,7 +10,7 @@
 
 | Skill         | Proficiency |
 |---------------|-------------|
-| **Python** 🐍         | ![80%](https://progress-bar.dev/80/?width=150&title=Advanced) |
+| **Python** 🐍         | ![80%]([██████████ 100%]) |
 | **SQL** 🛢️           | ![75%](https://progress-bar.dev/75/?width=150&title=Proficient) |
 | **Power BI** 📊       | ![70%](https://progress-bar.dev/70/?width=150&title=Intermediate) |
 | **Excel** 📈          | ![85%](https://progress-bar.dev/85/?width=150&title=Advanced) |
