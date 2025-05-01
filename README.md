@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF0JyWGAaY0SA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684579848923?e=2147483647&v=beta&t=oSUDcHM6oqW6J637_ByatnIljzctxgnv2ZQucK-c6II)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQE8l3ZOW6AHnw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694747971865?e=2147483647&v=beta&t=XE6GB-ujgViEilGuND7fa98gfPqBNu_E8OXH3cGdmUg)
 
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
