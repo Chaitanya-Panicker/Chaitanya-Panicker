@@ -1,3 +1,6 @@
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF0JyWGAaY0SA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684579848923?e=2147483647&v=beta&t=oSUDcHM6oqW6J637_ByatnIljzctxgnv2ZQucK-c6II)
+
+
 <image align="center" alt="analyst" width="600" src="https://media.licdn.com/dms/image/v2/D5616AQF0JyWGAaY0SA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684579848923?e=2147483647&v=beta&t=oSUDcHM6oqW6J637_ByatnIljzctxgnv2ZQucK-c6II"</>
 
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
