@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQE8l3ZOW6AHnw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694747971865?e=2147483647&v=beta&t=XE6GB-ujgViEilGuND7fa98gfPqBNu_E8OXH3cGdmUg)
+![MasterHead](https://www.tuvsud.com/-/media/regions/uk/images/resource-centre/case-study/condition-based-calibration-of-flow-meters-through-data-driven-modelling_banner.jpg?h=730&w=2560&la=en-ID&hash=203E2A3DC921E263D1DE6670DEA6325F)
 
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
