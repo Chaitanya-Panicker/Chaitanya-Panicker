@@ -8,6 +8,8 @@
 </p>
 ## 🧠 Skills & Tools
 
+<div align="center">
+
 | Skill         | Proficiency |
 |---------------|-------------|
 | **Python** 🐍         | ![80%]([██████████ 100%]) |
@@ -15,6 +17,8 @@
 | **Power BI** 📊       | ![70%](https://progress-bar.dev/70/?width=150&title=Intermediate) |
 | **Excel** 📈          | ![85%](https://progress-bar.dev/85/?width=150&title=Advanced) |
 | **Tableau** 📉        | ![60%](https://progress-bar.dev/60/?width=150&title=Learning) |
+
+</div>
 
 <div align="center">
   <h1>Data Analytics Portfolio 📊</h1>
