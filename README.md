@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chaitanya.panicker98@gmail.com**
 
-- ⚡ Fun fact **I think I am curious about Data**
+- ⚡ Fun fact **I think I am curious about Data & Visualization**
 
 <div align="center">
   
