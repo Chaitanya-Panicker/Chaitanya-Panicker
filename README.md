@@ -1,9 +1,9 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF0JyWGAaY0SA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684579848923?e=2147483647&v=beta&t=oSUDcHM6oqW6J637_ByatnIljzctxgnv2ZQucK-c6II)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF0JyWGAaY0SA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684579848923?e=2147483647&v=beta&t=oSUDcHM6oqW6J637_ByatnIljzctxgnv2ZQucK-c6II)
 
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
-<image align="right" alt="analyst" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif">
+<image align="right" alt="analyst" width="200" height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif">
 
 - 🌱 I’m currently learning **PowerBI, MS Excel, SQL, Python**
   
