@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
-<image align="center" alt="analyst" width="400" src="https://iconscout.com/lottie-animation/young-man-doing-data-analyst-14005869_11302338"
+<image align="center" alt="analyst" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"
 
 - 🌱 I’m currently learning **PowerBI, MS Excel, SQL, Python**
 
