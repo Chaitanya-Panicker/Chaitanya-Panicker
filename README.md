@@ -1,4 +1,4 @@
-![MasterHead](https://www.tuvsud.com/-/media/regions/uk/images/resource-centre/case-study/condition-based-calibration-of-flow-meters-through-data-driven-modelling_banner.jpg?h=730&w=2560&la=en-ID&hash=203E2A3DC921E263D1DE6670DEA6325F)
+![MasterHead](https://dynamic.brandcrowd.com/preview/design/fc2ff9bf-fd2b-4eae-aad4-d1f35dccab78.jpg)
 
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
