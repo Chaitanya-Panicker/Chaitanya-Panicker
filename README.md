@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
-<image align="right" alt="analyst" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif"</>
+<image align="right" alt="analyst" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif"
 
 - 🌱 I’m currently learning **PowerBI, MS Excel, SQL, Python**
 - 
