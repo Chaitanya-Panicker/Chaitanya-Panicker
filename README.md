@@ -1,6 +1,9 @@
-<p align="center">
+<div align="center">
+  
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFtQm1V5xx7_w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1710870009359?e=2147483647&v=beta&t=cIZvlOB6_rB053_id6XabKgAprryKmT20PYaSfkCl_A)
-</p>
+
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
