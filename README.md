@@ -19,7 +19,7 @@
 <div align="center">
   
 ## Skills
-| Skill         | Proficiency |
+| Skills         | Proficiency |
 |---------------|-------------|
 | **Python**          | ██████████ 100% |
 | **SQL**           | ████████░░ 80% |
