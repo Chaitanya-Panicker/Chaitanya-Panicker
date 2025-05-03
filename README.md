@@ -21,8 +21,9 @@
 ## Skills
 | Skills         | Proficiency |
 |---------------|-------------|
-| **Python**          | ██████████ 100% |
-| **SQL**           | ████████░░ 80% |
+| **Python** ![download](https://github.com/user-attachments/assets/488a592b-be39-495c-a1ad-23178cee4617)         | ██████████ 100% |
+| **SQL** 
+          | ████████░░ 80% |
 | **Power BI**       | ████████░░ 80% |
 | **Excel**         | ████████░░ 80% |
 | **Jupyter Notebook**        | ████████░░ 80% |
