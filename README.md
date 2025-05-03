@@ -39,53 +39,67 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapanicker98&" alt="chaitanyapanicker98" /></p>
 </div>
 
-### Skills
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-<div style="width: 100px; height: 100px; position: relative; margin: 10px;">
-  <svg width="100" height="100" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#e0e0e0" stroke-width="10"/>
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#4CAF50" stroke-width="10" stroke-dasharray="283" stroke-dashoffset="0" transform="rotate(-90 50 50)"/>
-    <text x="50" y="50" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold">Python</text>
-    <text x="50" y="65" text-anchor="middle" dominant-baseline="middle" font-size="10">100%</text>
+<!-- Python -->
+<p align="center">
+  <svg width="120" height="120">
+    <circle cx="60" cy="60" r="50" stroke="#4B8BBE" stroke-width="10" fill="none" opacity="0.2"/>
+    <circle cx="60" cy="60" r="50" stroke="#4B8BBE" stroke-width="10" fill="none"
+      stroke-dasharray="314"
+      stroke-dashoffset="0"
+      stroke-linecap="round"
+      transform="rotate(-90 60 60)"/>
+    <text x="60" y="60" text-anchor="middle" dy="7" font-size="18" fill="#4B8BBE">Python</text>
   </svg>
-</div>
+</p>
 
-<div style="width: 100px; height: 100px; position: relative; margin: 10px;">
-  <svg width="100" height="100" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#e0e0e0" stroke-width="10"/>
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#2196F3" stroke-width="10" stroke-dasharray="283" stroke-dashoffset="56.6" transform="rotate(-90 50 50)"/>
-    <text x="50" y="50" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold">SQL</text>
-    <text x="50" y="65" text-anchor="middle" dominant-baseline="middle" font-size="10">80%</text>
+<!-- SQL -->
+<p align="center">
+  <svg width="120" height="120">
+    <circle cx="60" cy="60" r="50" stroke="#F29111" stroke-width="10" fill="none" opacity="0.2"/>
+    <circle cx="60" cy="60" r="50" stroke="#F29111" stroke-width="10" fill="none"
+      stroke-dasharray="314"
+      stroke-dashoffset="63"
+      stroke-linecap="round"
+      transform="rotate(-90 60 60)"/>
+    <text x="60" y="60" text-anchor="middle" dy="7" font-size="18" fill="#F29111">SQL</text>
   </svg>
-</div>
+</p>
 
-<div style="width: 100px; height: 100px; position: relative; margin: 10px;">
-  <svg width="100" height="100" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#e0e0e0" stroke-width="10"/>
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#9C27B0" stroke-width="10" stroke-dasharray="283" stroke-dashoffset="56.6" transform="rotate(-90 50 50)"/>
-    <text x="50" y="50" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold">Power BI</text>
-    <text x="50" y="65" text-anchor="middle" dominant-baseline="middle" font-size="10">80%</text>
+<!-- Power BI -->
+<p align="center">
+  <svg width="120" height="120">
+    <circle cx="60" cy="60" r="50" stroke="#F2C811" stroke-width="10" fill="none" opacity="0.2"/>
+    <circle cx="60" cy="60" r="50" stroke="#F2C811" stroke-width="10" fill="none"
+      stroke-dasharray="314"
+      stroke-dashoffset="63"
+      stroke-linecap="round"
+      transform="rotate(-90 60 60)"/>
+    <text x="60" y="60" text-anchor="middle" dy="7" font-size="16" fill="#F2C811">Power BI</text>
   </svg>
-</div>
+</p>
 
-<div style="width: 100px; height: 100px; position: relative; margin: 10px;">
-  <svg width="100" height="100" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#e0e0e0" stroke-width="10"/>
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#FF9800" stroke-width="10" stroke-dasharray="283" stroke-dashoffset="56.6" transform="rotate(-90 50 50)"/>
-    <text x="50" y="50" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold">Excel</text>
-    <text x="50" y="65" text-anchor="middle" dominant-baseline="middle" font-size="10">80%</text>
+<!-- Excel -->
+<p align="center">
+  <svg width="120" height="120">
+    <circle cx="60" cy="60" r="50" stroke="#217346" stroke-width="10" fill="none" opacity="0.2"/>
+    <circle cx="60" cy="60" r="50" stroke="#217346" stroke-width="10" fill="none"
+      stroke-dasharray="314"
+      stroke-dashoffset="63"
+      stroke-linecap="round"
+      transform="rotate(-90 60 60)"/>
+    <text x="60" y="60" text-anchor="middle" dy="7" font-size="16" fill="#217346">Excel</text>
   </svg>
-</div>
+</p>
 
-<div style="width: 100px; height: 100px; position: relative; margin: 10px;">
-  <svg width="100" height="100" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#e0e0e0" stroke-width="10"/>
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#607D8B" stroke-width="10" stroke-dasharray="283" stroke-dashoffset="56.6" transform="rotate(-90 50 50)"/>
-    <text x="50" y="50" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold">Jupyter</text>
-    <text x="50" y="65" text-anchor="middle" dominant-baseline="middle" font-size="10">80%</text>
+<!-- Jupyter Notebook -->
+<p align="center">
+  <svg width="120" height="120">
+    <circle cx="60" cy="60" r="50" stroke="#F37726" stroke-width="10" fill="none" opacity="0.2"/>
+    <circle cx="60" cy="60" r="50" stroke="#F37726" stroke-width="10" fill="none"
+      stroke-dasharray="314"
+      stroke-dashoffset="63"
+      stroke-linecap="round"
+      transform="rotate(-90 60 60)"/>
+    <text x="60" y="60" text-anchor="middle" dy="7" font-size="12" fill="#F37726">Jupyter</text>
   </svg>
-</div>
-
-</div>
+</p>
