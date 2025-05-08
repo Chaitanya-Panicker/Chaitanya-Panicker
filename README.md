@@ -42,7 +42,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="45"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/>
