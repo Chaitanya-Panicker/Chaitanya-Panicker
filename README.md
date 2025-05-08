@@ -46,4 +46,7 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="40" height="40" alt="Jupyter Notebook"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" alt="Tableau"/>
+  <img src="https://img.icons8.com/ios-filled/50/276DC3/r-project.png" width="40" height="40" alt="R Language"/>
 </p>
