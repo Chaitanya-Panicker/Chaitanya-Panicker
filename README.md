@@ -42,7 +42,7 @@
 </div>
 
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/>
