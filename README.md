@@ -40,3 +40,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapanicker98&" alt="chaitanyapanicker98" /></p>
 </div>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/>
+</p>
