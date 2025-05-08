@@ -27,11 +27,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <p align="left">
-  <a href="mailto:Chaitanya.panicker98@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:chaitanya.panicker98@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chaitanya-panicker/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/chaitanyapanicker98/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </p>
