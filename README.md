@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **PowerBI, MS Excel, SQL, Python**
+- 🌱 I’m currently learning **PowerBI, MS Excel, SQL, Python & Tableau**
   
 - 💬 Ask me about **Data Analytics**
 
@@ -31,7 +31,8 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/chaitanyapanicker98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chaitanyapanicker98" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapanicker98&" alt="chaitanyapanicker98" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapanicker9&" alt="chaitanyapanicker98" /></p>
 </div>
 
 
