@@ -4,7 +4,6 @@
 
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Chaitanya Panicker</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
@@ -16,31 +15,6 @@
 
 - ⚡ Fun fact **I think I am curious about Data & Visualization**
 
-<div align="center">
-  
-## Skills
-| Skills         | Proficiency |
-|---------------|-------------|
-| **Python**         | ██████████ 100% |
-| **SQL**            | ████████░░ 80% |
-| **Power BI**       | ████████░░ 80% |
-| **Excel**          | ████████░░ 80% |
-| **Jupyter Notebook**        | ████████░░ 80% |
-
-
-</div>
-
-<img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" width="40" height="40">
-<div align="center">
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/chaitanyapanicker98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chaitanyapanicker98" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapanicker98&" alt="chaitanyapanicker98" /></p>
-</div>
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="35" height="35"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/>
@@ -49,3 +23,14 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" alt="Tableau"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="40" height="40" alt="Jupyter Notebook"/>
 </p>
+
+<div align="center">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/chaitanyapanicker98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chaitanyapanicker98" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapanicker98&" alt="chaitanyapanicker98" /></p>
+</div>
+
+
