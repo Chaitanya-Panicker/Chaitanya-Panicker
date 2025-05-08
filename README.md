@@ -47,4 +47,5 @@
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="40" height="40" alt="Jupyter Notebook"/>
 </p>
