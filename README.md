@@ -27,8 +27,10 @@
 | **Excel**          | ████████░░ 80% |
 | **Jupyter Notebook**        | ████████░░ 80% |
 
+
 </div>
 
+<img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" width="40" height="40">
 <div align="center">
 
 <h3 align="center">Connect with me:</h3>
