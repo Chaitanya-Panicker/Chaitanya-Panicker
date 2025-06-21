@@ -23,8 +23,11 @@
 <h3 align="left">Skills:</h3>
 
 <p align="left">
+  
+![linkedin banner image2](https://github.com/user-attachments/assets/3b7c659f-c847-4fc9-b09a-8818f05f836f)
+![linkedin banner image3](https://github.com/user-attachments/assets/19dd6afd-62c4-4349-b94b-4fe8b94240ff)
 
-![linkedin banner image1](https://github.com/user-attachments/assets/bd02d20a-0a8f-4b05-a057-72e4af9dfc47)
+
 
 </p>
 
