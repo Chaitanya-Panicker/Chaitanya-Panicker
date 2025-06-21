@@ -1,4 +1,6 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Chaitanya%20Panicker%20🤠&text2=A%20Passionate%20Data%20Analyst&width=900&height=400)
+
+
+![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Chaitanya%20Panicker%20🤠&text2=A%20Passionate%20Data%20Analyst&width=900&height=400)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=Chaitanya-Panicker&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
@@ -24,6 +26,10 @@
 
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Panicker&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Panicker&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
 
 
