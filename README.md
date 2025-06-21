@@ -7,6 +7,7 @@
 
 
 
+
 <p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
 
@@ -19,21 +20,11 @@
 
 - 📫 How to reach me **chaitanya.panicker98@gmail.com**
 
-<h3 align="center">Skills:</h3>
+<h3 align="left">Skills:</h3>
 
-<p align="center">
+<p align="left">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="35" height="35"/>
-  
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/>
-  
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/>
-  
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/>
-  
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" alt="Tableau"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="40" height="40" alt="Jupyter Notebook"/>
+![linkedin banner image1](https://github.com/user-attachments/assets/bd02d20a-0a8f-4b05-a057-72e4af9dfc47)
 
 </p>
 
