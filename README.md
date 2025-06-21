@@ -38,4 +38,4 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&" alt="chaitanya-panicker" height="150" alt="profile-radme-generator" />
+<img align="left" height="auto" width={350} src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&" alt="chaitanya-panicker" height="150" alt="profile-radme-generator" />
