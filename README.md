@@ -34,8 +34,8 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Panicker&show_icons=true&theme=dark&locale=en&hide_border=false" height="150"  alt="profile-radme-generator" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-panicker&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&" alt="chaitanya-panicker" height="150"/>
+</div>
 
-
-
-<img align="left" height="auto" width={350} src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&" alt="chaitanya-panicker" height="150" alt="profile-radme-generator" />
