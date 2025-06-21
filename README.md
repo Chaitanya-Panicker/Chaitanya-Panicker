@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **PowerBI, Tableau, MS Excel, SQL, Python**
 
-- 💬 Ask me about **Data Cleaning & Visualization**
+- 💬 Ask me about **Data cleaning & visualization**
 
-- 😂 Func Fact **I think I am curious about Data.**
+- 😂 Fun Fact **I think I am curious about data.**
 
 - 📫 How to reach me **chaitanya.panicker98@gmail.com**
 
@@ -34,8 +34,8 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Panicker&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Panicker&show_icons=true&theme=dark&locale=en&hide_border=false" height="150"  alt="profile-radme-generator" />
 
 
 
-<img align="right" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&" alt="chaitanya-panicker" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&" alt="chaitanya-panicker" height="150" alt="profile-radme-generator" />
