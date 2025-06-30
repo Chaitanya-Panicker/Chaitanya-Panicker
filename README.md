@@ -37,7 +37,8 @@
 <h3 align="left">My Badges:</h3>
 
 <p align="left">
-![badge_1](https://github.com/user-attachments/assets/3a043d81-c3d1-468e-9024-41cd55d0a821)
+
+![Screenshot (352)](https://github.com/user-attachments/assets/34d9d07c-0fe4-413d-99a7-8fd7419f281b)
 
   
 </p>
