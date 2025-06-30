@@ -37,7 +37,7 @@
 <h3 align="left">My Badges:</h3>
 
 <p align="left">
-![52517717-589b-4c76-977d-27a53952379f](https://github.com/user-attachments/assets/7f01c3ff-810a-4f33-b0af-f44848db3de8)
+![linkedin banner image2](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png)
 </p>
 
 
