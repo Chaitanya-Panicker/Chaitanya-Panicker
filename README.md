@@ -38,8 +38,8 @@
 
 <p align="left">
 
-<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="" width="50" height="50">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4yJwgsovd5194JGuPU8kuYiNfSwFIGEsaw&s" alt="" width="50" height="50">
+<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="" width="70" height="70">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4yJwgsovd5194JGuPU8kuYiNfSwFIGEsaw&s" alt="" width="70" height="70">
 </p>
 
 
