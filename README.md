@@ -38,7 +38,7 @@
 
 <p align="left">
 
-![Screenshot (352)](https://github.com/user-attachments/assets/34d9d07c-0fe4-413d-99a7-8fd7419f281b)
+<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="" width="150" height="100">
 ![Screenshot (353)](https://github.com/user-attachments/assets/2837d9ab-dbc6-4f56-a553-111238dc4739)
 
 </p>
