@@ -34,6 +34,12 @@
 
 </p>
 
+<h3 align="left">My Badges:</h3>
+
+<p align="left">
+![52517717-589b-4c76-977d-27a53952379f](https://github.com/user-attachments/assets/7f01c3ff-810a-4f33-b0af-f44848db3de8)
+</p>
+
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/Chaitanya-Panicker" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a><a href="https://linkedin.com/in/www.linkedin.com/in/chaitanyapanicker98" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a><a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/chait_98" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
