@@ -30,6 +30,7 @@
 ![linkedin banner image4](https://github.com/user-attachments/assets/3e7e2a44-2e72-45fe-be1e-70e6a321c7bd)
 ![linkedin banner image5](https://github.com/user-attachments/assets/0e42a42e-c3ea-444d-ba26-a5fc4f141582)
 ![linkedin banner image6](https://github.com/user-attachments/assets/6143d36a-8029-47b7-99a5-a7179eabade3)
+![linkedin banner image7](https://github.com/user-attachments/assets/58d78ea0-7bb2-474f-9f13-3099c1205d33)
 
 
 
