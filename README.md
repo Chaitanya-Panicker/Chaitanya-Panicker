@@ -12,11 +12,13 @@
 
 
 
-- 🌱 I’m currently learning **PowerBI, Tableau, MS Excel, SQL, Python**
+- 🌱 I’m currently learning **PowerBI, Tableau, MS Excel, SQL, Python to strengthen my ability to turn raw data into meaningful insights**
 
-- 💬 Ask me about **Data cleaning & visualization**
+- 💬 I enjoy the process of **data cleaning and visualization**
 
-- 😂 Fun Fact **I think I am curious about data.**
+- ✨ What excites me most is **storytelling through data**
+
+- 😂 Fun fact **I’ve always been curious about how things work**
 
 - 📫 How to reach me **chaitanya.panicker98@gmail.com**
 
