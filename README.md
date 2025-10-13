@@ -30,7 +30,6 @@
 ![2](https://github.com/user-attachments/assets/238cf12e-4228-4517-8b05-e0db3c31d9f5)
 ![3](https://github.com/user-attachments/assets/205e77ce-0427-485c-adbc-2e74f9b9daf0)
 ![4](https://github.com/user-attachments/assets/77586ae6-83d2-4565-8d14-83758d57d989)
-![5](https://github.com/user-attachments/assets/b1dc8bf0-cb15-4016-9d24-3e768e961ebd)
 ![6](https://github.com/user-attachments/assets/644039a4-62d3-4094-a780-3fb249fc92e1)
 ![8](https://github.com/user-attachments/assets/9bc65ad9-4f9f-4770-bf88-34de1a60cccd)
 ![9](https://github.com/user-attachments/assets/5d6daa58-bcf4-4db2-a1e9-bc673815bd15)
