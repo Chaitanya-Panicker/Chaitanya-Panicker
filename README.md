@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **PowerBI, Tableau, MS Excel, SQL, Python to strengthen my ability to turn raw data into meaningful insights**
+- 🌱 I’m currently learning **PowerBI, MS Excel, SQL, Python to strengthen my ability to turn raw data into meaningful insights**
 
 - 💬 I enjoy the process of **data cleaning and visualization**
 
