@@ -1,57 +1,112 @@
-
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Chaitanya%20Panicker%20🤠&text2=A%20Passionate%20Data%20Analyst&width=900&height=400)
-
-
-<img height="auto" src="https://komarev.com/ghpvc/?username=Chaitanya-Panicker&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
-
-
-
-
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
-
-- 🌱 I’m currently learning **PowerBI, MS Excel, SQL, Python to strengthen my ability to turn raw data into meaningful insights**
-
-- 💬 I enjoy the process of **data cleaning and visualization**
-
-- ✨ What excites me most is **storytelling through data**
-
-- 😂 Fun fact **I’ve always been curious about how things work**
-
-- 📫 How to reach me **chaitanya.panicker98@gmail.com**
-
-<h3 align="left">Skills:</h3>
-
-<p align="left">
-  
-![1](https://github.com/user-attachments/assets/03a5f06f-2a4f-4d8f-9cbe-ab110d4399a2)
-![2](https://github.com/user-attachments/assets/238cf12e-4228-4517-8b05-e0db3c31d9f5)
-![3](https://github.com/user-attachments/assets/205e77ce-0427-485c-adbc-2e74f9b9daf0)
-![4](https://github.com/user-attachments/assets/77586ae6-83d2-4565-8d14-83758d57d989)
-![8](https://github.com/user-attachments/assets/9bc65ad9-4f9f-4770-bf88-34de1a60cccd)
-![9](https://github.com/user-attachments/assets/5d6daa58-bcf4-4db2-a1e9-bc673815bd15)
-![10](https://github.com/user-attachments/assets/3b35be3c-4e28-4e7c-9ff8-01114351d9af)
-
-</p>
-
-<h3 align="left">My Badges:</h3>
-
-<p align="left">
-
-<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="" width="65" height="65">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4yJwgsovd5194JGuPU8kuYiNfSwFIGEsaw&s" alt="" width="65" height="65">
-</p>
-
-
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/Chaitanya-Panicker" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a><a href="https://linkedin.com/in/www.linkedin.com/in/chaitanyapanicker98" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a><a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/chait_98" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
-
-
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-panicker&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&" alt="chaitanya-panicker" height="150"/>
+<!-- ==================== BANNER ==================== -->
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=Chaitanya%20Panicker%20🤠&text2=Turning%20Raw%20Data%20into%20Stories%20%26%20Insights&width=900&height=220" alt="Chaitanya Panicker Banner" width="100%"/>
 </div>
 
+<br/>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chaitanya-Panicker&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<!-- ==================== INTRO ==================== -->
+<div align="center">
+  <h2>👋 Hi, I’m <b>Chaitanya Panicker</b></h2>
+  <p>
+    <b>Passionate Data Analyst</b> who loves cleaning messy data, building clear visualizations,  
+    and telling compelling stories that drive decisions.
+  </p>
+</div>
+
+<br/>
+
+<!-- ==================== ABOUT ME ==================== -->
+### 🚀 About Me
+
+- 🌱 Currently sharpening my skills in **Power BI**, **MS Excel**, **SQL**, and **Python**
+- 💬 I genuinely enjoy the process of **data cleaning & visualization**
+- ✨ What excites me most is **storytelling through data**
+- 🧐 Always curious about *how things work*
+- 📫 Reach me: **chaitanya.panicker98@gmail.com**
+
+<br/>
+
+<!-- ==================== TECH STACK ==================== -->
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<br/>
+
+<!-- ==================== GITHUB STATS ==================== -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanya-panicker&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&hide_title=false" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-panicker&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-panicker&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<br/>
+
+<!-- ==================== BADGES ==================== -->
+### 🏅 Certifications & Badges
+
+<p align="center">
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="NetAcad Badge" width="80" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4yJwgsovd5194JGuPU8kuYiNfSwFIGEsaw&s" alt="Badge" width="80" height="80"/>
+</p>
+
+<br/>
+
+<!-- ==================== CONNECT ==================== -->
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Chaitanya-Panicker" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/chaitanyapanicker98" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/chait_98" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  &nbsp;
+  <a href="mailto:chaitanya.panicker98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" width="700"/>
+  <br/><br/>
+  <p>
+    <i>“Data is the new oil, but storytelling is the refinery.”</i>
+  </p>
+  <p>
+    ⭐ From <a href="https://github.com/Chaitanya-Panicker">Chaitanya Panicker</a>
+  </p>
+</div>
