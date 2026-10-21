@@ -61,26 +61,21 @@
 <!-- ==================== ABOUT ME ==================== -->
 ### 🚀 About Me
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://via.placeholder.com/250x250.png?text=Chaitanya+Panicker" width="100%" style="border-radius:15px; border: 2px solid #38bdf8;" alt="Chaitanya Panicker"/>
-    </td>
-    <td width="65%" valign="top">
-      <p>I'm <b>Chaitanya Panicker</b>, a passionate Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. I enjoy working with data to uncover insights, build meaningful dashboards, and support data-driven decisions.</p>
-      <ul>
-        <li>📍 <b>Location:</b> Pimpri Chinchwad, Maharashtra, India</li>
-        <li>🎓 <b>Education:</b> B.Tech - CSE (DY Patil International University)</li>
-        <li>🎓 <b>Status:</b> 2024 Graduate</li>
-      </ul>
-      <blockquote>
-        💬 <i>"Better data. Better decisions. A better tomorrow."</i>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+I'm **Chaitanya Panicker**, a passionate Data Analyst with a strong foundation in data analysis, visualization and problem solving. I enjoy working with data to uncover insights, build meaningful dashboards and support data-driven decisions.
+
+| | |
+|---|---|
+| 📍 **Location** | Pimpri Chinchwad, Maharashtra, India |
+| 🎓 **Education** | B.Tech - CSE (DY Patil International University) |
+| 📅 **Graduation** | 2024 |
+| 📫 **Email** | chaitanya.panicker98@gmail.com |
+
+> *"Better data. Better decisions. A better tomorrow."*
+
+<br/>
 
 ---
+
 
 <!-- ==================== SKILLS ==================== -->
 ### 🛠️ Skills
