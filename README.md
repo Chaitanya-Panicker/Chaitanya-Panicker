@@ -121,6 +121,14 @@
       </p>
       <p>Handled 500K+ records to analyze energy production and consumption trends across regions.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💨 Renewable Energy Analytics</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+      </p>
+      <p>Handled 500K+ records to analyze energy production and consumption trends across regions.</p>
+    </td>
   </tr>
 </table>
 
