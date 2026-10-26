@@ -221,9 +221,9 @@ Real-world projects with end-to-end data analysis, visualization and insights.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://www.resume.io">
-    [![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=E53935)](YOUR_RESUME_LINK)
-  </a>
+  <a href="YOUR_RESUME_LINK">
+       <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=333333&labelColor=FFFFFF" alt="Resume">
+</a>
 </div>
 
 <br/>
