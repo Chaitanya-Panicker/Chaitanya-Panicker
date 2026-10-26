@@ -111,15 +111,12 @@ Technologies & tools I work with
 
 <!-- ==================== PROJECTS ==================== -->
 ### 📂 Projects
-
 Real-world projects with end-to-end data analysis, visualization and insights.
-
 <br/>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 Bank Loan Analytics</h3>
+      <h3><a href="https://github.com/yourusername/bank-loan-analytics">🏦 Bank Loan Analytics</a></h3>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -127,7 +124,7 @@ Real-world projects with end-to-end data analysis, visualization and insights.
       <p>Analyzed <b>38K+</b> loan records to find key trends, risk segments and business insights.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 Uber Trip Analysis</h3>
+      <h3><a href="https://github.com/yourusername/uber-trip-analysis">🚗 Uber Trip Analysis</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -137,7 +134,7 @@ Real-world projects with end-to-end data analysis, visualization and insights.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Walmart Sales Analysis</h3>
+      <h3><a href="https://github.com/yourusername/walmart-sales-analysis">🛒 Walmart Sales Analysis</a></h3>
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -145,7 +142,7 @@ Real-world projects with end-to-end data analysis, visualization and insights.
       <p>Analyzed <b>9,969</b> invoices, <b>23K</b> products and <b>$1.21M</b> revenue to identify sales patterns and top products.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Renewable Energy Analytics</h3>
+      <h3><a href="https://github.com/yourusername/renewable-energy-analytics">⚡ Renewable Energy Analytics</a></h3>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
@@ -155,7 +152,7 @@ Real-world projects with end-to-end data analysis, visualization and insights.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Product Analytics</h3>
+      <h3><a href="https://github.com/yourusername/product-analytics">📊 Product Analytics</a></h3>
       <p>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -164,7 +161,7 @@ Real-world projects with end-to-end data analysis, visualization and insights.
       <p>Analyzed user behavior, funnel metrics and retention to improve product performance.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Healthcare Claims Analytics</h3>
+      <h3><a href="https://github.com/yourusername/healthcare-claims-analytics">🏥 Healthcare Claims Analytics</a></h3>
       <p>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -175,7 +172,7 @@ Real-world projects with end-to-end data analysis, visualization and insights.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ E-Commerce Customer Segmentation</h3>
+      <h3><a href="https://github.com/yourusername/ecommerce-customer-segmentation">🛍️ E-Commerce Customer Segmentation</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -188,9 +185,103 @@ Real-world projects with end-to-end data analysis, visualization and insights.
     </td>
   </tr>
 </table>
-
 <br/>
 
+<!-- ==================== EXPERIENCE ==================== -->
+### 💼 Experience
+Hands-on roles and internships focused on data analysis, business intelligence and decision support.
+<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/data-analyst-internship">📊 Data Analyst Intern – FinTech Startup</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+      <p>Built automated dashboards tracking <b>loan performance</b> and risk metrics for <b>25K+</b> accounts, reducing manual reporting time by <b>60%</b>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/bi-developer-role">📈 Business Intelligence Analyst – E-Commerce</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <p>Designed sales and customer retention dashboards used by leadership; identified key drivers behind a <b>18%</b> uplift in repeat purchases.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/healthcare-data-role">🏥 Healthcare Data Analyst – Consulting Firm</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      </p>
+      <p>Analyzed claims and patient outcomes data to support cost-optimization initiatives and fraud detection models.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/energy-analytics-internship">⚡ Energy Analytics Intern – Renewable Energy Company</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <p>Processed large-scale production & consumption datasets and built forecasting models to support grid planning decisions.</p>
+    </td>
+  </tr>
+</table>
+<br/>
+
+<!-- ==================== CASE STUDIES ==================== -->
+### 📑 Case Studies
+Deep-dive analyses solving real business problems with clear recommendations.
+<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/customer-churn-case-study">🔄 Reducing Customer Churn in Subscription Business</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+      <p>Identified high-risk segments and built an early-warning model that helped reduce monthly churn by <b>~12%</b>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/pricing-optimization-case-study">💰 Dynamic Pricing Optimization for Ride-Hailing</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      </p>
+      <p>Analyzed demand-supply patterns across zones and time slots to recommend pricing strategies that improved revenue per trip.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/inventory-optimization-case-study">📦 Inventory & Stockout Reduction for Retail Chain</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+      <p>Combined sales velocity and lead-time data to redesign reorder points, cutting stockouts by <b>22%</b> while lowering excess inventory.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yourusername/fraud-detection-case-study">🛡️ Claims Fraud Detection in Healthcare</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      </p>
+      <p>Developed anomaly detection rules and risk scoring that flagged suspicious claims with high precision for further investigation.</p>
+    </td>
+  </tr>
+</table>
+<br/>
 ---
 
 <!-- ==================== CERTIFICATIONS ==================== -->
