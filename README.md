@@ -186,7 +186,7 @@ Real-world projects with end-to-end data analysis, visualization and insights.
   </tr>
 </table>
 <br/>
----
+
 
 <!-- ==================== CERTIFICATIONS ==================== -->
 ### 🏅 Certifications & Badges
