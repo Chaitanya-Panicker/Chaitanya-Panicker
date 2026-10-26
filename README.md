@@ -199,8 +199,6 @@ Real-world projects with end-to-end data analysis, visualization and insights.
 
 <br/>
 
----
-
 <!-- ==================== CONNECT ==================== -->
 ### 🌐 Connect with Me
 
