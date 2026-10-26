@@ -66,7 +66,7 @@ I'm **Chaitanya Panicker**, a passionate Data Analyst with a strong foundation i
 | | |
 |---|---|
 | 📍 **Location** | Pimpri Chinchwad, Maharashtra, India |
-| 🎓 **Education** | B.Tech - CSE (DY Patil International University) |
+| 🎓 **Education** | B.Tech - Computer Science and Engineering (DY Patil International University) |
 | 📅 **Graduation** | 2024 |
 | 📫 **Email** | chaitanya.panicker98@gmail.com |
 
